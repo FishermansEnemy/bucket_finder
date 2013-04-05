@@ -1,8 +1,3 @@
-bucket_finder
-=============
-
-Amazon bucket brute force tool
-
 # == Bucket Finder - Trawl Amazon S3 buckets for interesting files
 #
 # Each group of files on Amazon S3 have to be contained in a bucket and each bucket has to have a unique
@@ -15,6 +10,7 @@ Amazon bucket brute force tool
 #
 #  1.0 - Released
 #  1.1 - Added log to file option
+#  1.2 - Added exception handling to the non-download net code [Ian Williams]
 #
 # == Usage
 #
@@ -32,6 +28,7 @@ Amazon bucket brute force tool
 # <wordlist>: the names to brute force
 #
 # Author:: Robin Wood (robin@digininja.org
+# Author:: Ian Williams (ian@fishermansenemy.com) contributor after 1.1
 # Copyright:: Copyright (c) Robin Wood 2011
 # Licence:: Creative Commons Attribution-Share Alike Licence
 #
