@@ -30,6 +30,7 @@
 # <wordlist>: the names to brute force
 #
 # Author:: Robin Wood (robin@digininja.org
+# Contributor:: Ian Williams (ian.williams@xiphosresearch.co.uk) v 1.2
 # Copyright:: Copyright (c) Robin Wood 2011
 # Licence:: Creative Commons Attribution-Share Alike Licence
 #
