@@ -12,6 +12,7 @@
 #
 #  1.0 - Released
 #  1.1 - Added log to file option
+#  1.2 - Added a rescue so that script continues to execute in case of bad response
 #
 # == Usage
 #
